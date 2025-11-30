@@ -1,4 +1,4 @@
-import { GoogleAuthOptions } from './../node_modules/google-auth-library/build/src/auth/googleauth.d';
+
 import express from 'express'
 import dotenv from 'dotenv'
 import {GoogleGenAI, GoogleGenAIOptions} from '@google/genai'

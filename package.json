@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start:dev": "nodemon ./src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "@types/ejs": "^3.1.5",
+    "@types/marked": "^5.0.2",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "marked": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.5",
+    "@types/nodemon": "^1.19.6",
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

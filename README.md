@@ -22,12 +22,10 @@ Live demo → https://your-username.github.io/gemini-ai-chat (or deploy link lat
 
 <img src="https://i.imgur.com/5xG7kP2.png" alt="Gemini AI Chat Demo" width="800"/>
 
-*(Add your own screenshot later by dragging it into GitHub)*
-
 ## Quick Start
 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/gemini-ai-chat.git
-cd gemini-ai-chat
+git clone https://github.com/Ali747711/AiGEN.git
+cd AiGEN
